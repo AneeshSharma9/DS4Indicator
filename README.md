@@ -20,7 +20,7 @@ It is important to highlight that accurate battery percentage monitoring for the
   
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/username/DS4Indicator/releases).
+1. Download the latest release from the [Releases page]([https://github.com/username/DS4Indicator/releases](https://github.com/AneeshSharma9/DS4Indicator/releases)).
 2. Extract the files to a folder of your choice.
 3. Launch the application (`DS4Indicator.exe`).
 

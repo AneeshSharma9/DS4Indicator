@@ -1,6 +1,6 @@
 # DS4Indicator
 
-**DS4Indicator** is a lightweight desktop application designed to help users track the connection status of their DualShock 4 controllers and display important information about their usage. It provides real-time updates on whether your controller is connected or disconnected and offers easy access to the runtime since the last connection.
+**DS4Indicator** is a lightweight Windows desktop application designed to help users track the connection status of their DualShock 4 controllers and display important information about their usage. It provides real-time updates on whether your controller is connected or disconnected and offers easy access to the runtime since the last connection.
 
 ## Features
 
